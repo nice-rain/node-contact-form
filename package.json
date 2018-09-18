@@ -1,0 +1,18 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "simple contact form",
+  "main": "\u001b[D\u001b[D\u001b[Dserver.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.1",
+    "nodemailer": "^4.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nice Rain",
+  "license": "ISC"
+}
